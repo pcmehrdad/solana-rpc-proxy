@@ -1,7 +1,7 @@
 
 ## Solana RCP proxy
 
-This project is a dockerized version of [this repo](https://github.com/HowRareIs/solproxy)
+This project is customized and dockerized version of [this repo](https://github.com/HowRareIs/solproxy)
 
 ## how to use
 ```bash
