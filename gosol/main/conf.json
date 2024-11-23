@@ -1,0 +1,10 @@
+{
+	"SOL_NODES":[
+		{"url":"https://api.mainnet-beta.solana.com", "public":false, "throttle":"r,80,10;f,30,10;d,80000000,30", "probe_time":10}
+	],
+
+	"RUN_SERVICES":"*",
+	"FORCE_START":true,
+	"DEBUG":true,
+	"VERBOSE":false
+}

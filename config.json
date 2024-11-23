@@ -1,0 +1,12 @@
+{
+	"SOL_NODES":[
+		{"url":"https://solana-mainnet.g.alchemy.com/v2/kaWtjYZC7drOvcJMzobhFaLR3Ismb4_u", "public":false, "throttle":"r,16,1;f,16,1;d,1600000000,30", "probe_time":30},
+		{"url":"https://solana-mainnet.g.alchemy.com/v2/wJrODC29TOGSea9bKWVDsp8wIVhc1zRi", "public":false, "throttle":"r,16,1;f,16,1;d,1600000000,30", "probe_time":30},
+		{"url":"https://sol.nownodes.io/52436fdc-d45c-415c-8928-e3cef69e7a16", "public":false, "throttle":"r,80,10;f,30,10;d,80000000,30", "probe_time":30}
+	],
+
+	"RUN_SERVICES":"*",
+	"FORCE_START":true,
+	"DEBUG":true,
+	"VERBOSE":false
+}

@@ -1,0 +1,15 @@
+# Binaries
+/gosol/main/main
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Environment files
+.env
+
+# Log files
+*.log
